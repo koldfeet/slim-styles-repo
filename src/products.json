@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Style",
+        "image": "https://source.unsplash.com/200x200?hair",
+        "price": "$30-$50",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "id": 2,
+        "name": "Style",
+        "image": "https://source.unsplash.com/200x200?dress",
+        "price": "$30-$50",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "id": 3,
+        "name": "Style",
+        "image": "https://source.unsplash.com/200x200?model",
+        "price": "$30-$50",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "id": 4,
+        "name": "Style",
+        "image": "https://source.unsplash.com/200x200?fashion",
+        "price": "$30-$50",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "id": 5,
+        "name": "Style",
+        "image": "https://source.unsplash.com/200x200?beauty",
+        "price": "$30-$50",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "id": 6,
+        "name": "Style",
+        "image": "https://source.unsplash.com/200x200?makeup",
+        "price": "$30-$50",
+        "rating": "⭐⭐⭐⭐⭐"
+    }
+]

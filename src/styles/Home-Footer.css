@@ -1,0 +1,30 @@
+#footer-section {
+    background-color: #DFBCBC;
+    color: #FFFFFF;
+    padding: 20px;
+}
+
+.footer-ul {
+    margin-top: 20px;
+}
+
+.footer-li {
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+
+#footer-left-col, #footer-mid-col, #footer-right-col {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    border-left: 2px solid white;
+}
+
+#footer-section {
+    font-size: 50px;
+}
+
+.home-footer-p {
+    font-size: 16px;
+}

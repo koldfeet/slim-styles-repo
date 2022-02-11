@@ -1,0 +1,37 @@
+.formPage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.formHr {
+    border: 0;
+    width: 100%;
+    color: #000000;
+    height: 1px;
+}
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.firstNameBox, .lastNameBox, .buttonStyle, .emailBox {
+    margin: 10px;
+    width: 300px;
+}
+
+.textBox {
+    margin: 10px;
+    height: 100px;
+    width: 300px;
+}
+
+.form-input-style {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.form-section-h2 {
+    color: #fdb4b4;
+}
