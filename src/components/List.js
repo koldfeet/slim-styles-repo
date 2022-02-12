@@ -5,10 +5,13 @@ function List(props) {
     return (
         <div>
             <ul className='list-group'>
-                {props.service.map(item => (
+                {props.blog.map(item => (
                     <li className='list-group-item' key={item.id}>
-                        {item.Name}
-                        {item.Price}
+                        {item.question}
+                        <br></br>
+                        <li className='list-answer' key={item.id}>
+                            {item.answer}
+                        </li>
                     </li>
                 ))}
             </ul>
