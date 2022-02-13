@@ -1,9 +1,14 @@
 import React from 'react'
 import '../styles/FriendCard.css'
 
+// all list style is inside FriendCard.css file starting on line 66
+
 function List(props) {
     return (
-        <div>
+        <section className='list-section-style'>
+            <div className='list-item-h2-center'>
+                <h2 className='list-item-h2-style'>Hair Information</h2>
+            </div>
             <ul className='list-group'>
                 {props.blog.map(item => (
                     <li className='list-group-item' key={item.id}>
@@ -15,7 +20,7 @@ function List(props) {
                     </li>
                 ))}
             </ul>
-        </div>
+        </section>
     )
 }
 

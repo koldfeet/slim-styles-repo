@@ -20,7 +20,7 @@ function ProductCard(props) {
                     </li>
                 </ul>
             </div>
-            <span onClick={() => props.removeFriend(props.id)} className="remove">X</span>
+            <span onClick={() => props.removeFriend(props.id)} className="remove"></span>
         </div>
     )
 };

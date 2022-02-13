@@ -59,6 +59,29 @@
     margin-bottom: 50px;
   }
 
+
+
+/* list style for home page question/answer */
+
+.list-section-style {
+ margin-left: 35px;
+ margin-bottom: 20px;
+}
+
 .list-answer {
-  color: red;
+  color: #fdb4b4;
+  font-size: 15px;
+  margin-top: 15px;
+  text-indent: 40px;
+  letter-spacing: 2px;
+}
+
+.list-item-h2-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.list-item-h2-style {
+  color: #fdb4b4;
 }
