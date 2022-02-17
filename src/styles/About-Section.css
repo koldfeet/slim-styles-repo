@@ -32,6 +32,13 @@
     box-shadow: 10px 10px 13px 1px rgba(40, 40, 54, 0.2);
 }
 
+.about-gallery-img {
+    box-shadow: 10px 10px 13px 1px rgba(40, 40, 54, 0.2);
+    width: 80%;
+    min-width: 300px;
+    height: 350px;
+}
+
 #about-gallery-top-left, 
 #about-gallery-top-mid,
 #about-gallery-top-right,

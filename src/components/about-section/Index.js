@@ -30,24 +30,24 @@ function about() {
                     <div className="container">
                         <div className="row">
                             <div id="about-gallery-top-left" className="col">
-                                <img className="about-section-img" src="https://source.unsplash.com/300x300?fashion" alt="profile picture"></img>
+                                <img className="about-gallery-img" src="images/hairOne.jpg" alt="profile picture"></img>
                             </div>
                             <div id="about-gallery-top-mid" className="col">
-                                <img className="about-section-img" src="https://source.unsplash.com/300x300?beauty" alt="profile picture"></img>
+                                <img className="about-gallery-img" src="images/hairTwo.jpg" alt="profile picture"></img>
                             </div>
                             <div id="about-gallery-top-right" className="col">
-                                <img className="about-section-img" src="https://source.unsplash.com/300x300?hair" alt="profile picture"></img>
+                                <img className="about-gallery-img" src="images/hairThree.jpg" alt="profile picture"></img>
                             </div>
                         </div>
                         <div className="row">
                             <div id="about-gallery-bottom-left" className="col">
-                                <img className="about-section-img" src="https://source.unsplash.com/300x300?nail" alt="profile picture"></img>
+                                <img className="about-gallery-img" src="images/hairFour.jpg" alt="profile picture"></img>
                             </div>
                             <div id="about-gallery-bottom-mid" className="col">
-                                <img className="about-section-img" src="https://source.unsplash.com/300x300?makeup" alt="profile picture"></img>
+                                <img className="about-gallery-img" src="images/hairFive.jpg" alt="profile picture"></img>
                             </div>
                             <div id="about-gallery-bottom-right" className="col">
-                                <img className="about-section-img" src="https://source.unsplash.com/300x300?Hemline" alt="profile picture"></img>
+                                <img className="about-gallery-img" src="images/hairSix.jpg" alt="profile picture"></img>
                             </div>
                         </div>
                     </div>
